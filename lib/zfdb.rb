@@ -3,8 +3,6 @@
 =begin
  database library 
 =end
-require 'rubygems'
-gem 'sqlite3', '1.3.6' #wtf ruby 1.92
 require 'sqlite3'
 
 module ZFdb
